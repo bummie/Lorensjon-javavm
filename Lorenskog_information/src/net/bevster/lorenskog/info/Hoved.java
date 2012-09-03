@@ -10,8 +10,7 @@ import javax.swing.*;
 
 import net.bevster.lorenskog.info.read.*;
 
-//Sebss
-
+//Hovedklassen
 public class Hoved extends JPanel {
 	static BufferedImage image;
 	static Reading r = new Reading();
